@@ -3,11 +3,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:052e16,50:166534,100:4ade80&height=230&section=header&text=DULANI%20WEERASINGHE&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=SOFTWARE%20ENGINEERING%20%7C%20CYBERSECURITY&descSize=15&descAlignY=60&animation=fadeIn" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,50:166534,100:22c55e&height=250&section=header&text=DULANI%20WEERASINGHE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20CYBERSECURITY&descSize=16&descAlignY=58&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=650&lines=Information+Technology+Undergraduate;Aspiring+Software+Engineer;Cybersecurity+Enthusiast;Passionate+About+Building+Technology" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Information+Technology+Undergraduate;Aspiring+Software+Engineer;Cybersecurity+Enthusiast;Building+Innovative+Software+Solutions" />
 
 <br/><br/>
 
